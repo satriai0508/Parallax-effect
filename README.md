@@ -1,3 +1,6 @@
+# Parallax Effect
+Parallax effect using CSS
+
 ## &#x1f4c8; Tech Stack
 
 <p>
